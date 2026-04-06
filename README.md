@@ -63,8 +63,9 @@ I enjoy finding bugs, improving product quality, and making user experiences bet
 
 ## 📫 Contact Me
 
-- Email: your_email_here  
-- LinkedIn: your_linkedin_here  
+- Email: admapovarova@gmail.com
+- LinkedIn: www.linkedin.com/in/apovarova
+
 
 ---
 
